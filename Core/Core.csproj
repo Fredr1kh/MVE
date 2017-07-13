@@ -4,6 +4,5 @@
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\Shared\Shared.csproj" />
-    <ProjectReference Include="..\TeachMe.Shared\TeachMe.Shared.csproj" />
   </ItemGroup>
 </Project>
